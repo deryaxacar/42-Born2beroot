@@ -25,18 +25,24 @@ Born2beroot projesi, katılımcılara aşağıdaki becerileri kazandırmayı hed
 
 ## Kullanım Senaryoları
 
-Born2beroot projesi, bir Linux sanal makinesi üzerinde çalışır ve aşağıdaki gibi senaryoları içerebilir:
+Born2beroot projesi, bir Linux sanal makinesi üzerinde çalışır ve aşağıdaki gibi senaryoları içerir:
 
 - Sanal makineleri oluşturma ve yapılandırma
+   - Bu adımda, bir sanal makine oluşturulur ve temel yapılandırmaları yapılır. Sanal makine, bir sanallaştırma platformu olan VirtualBox veya VMWare gibi bir yazılım aracılığıyla oluşturulabilir. Makine oluşturulduktan sonra, CPU, bellek, ağ ve diğer donanım ayarları yapılandırılır.
 - Linux işletim sistemi temel kurulumu
+   - Bu adımda, bir Linux dağıtımı (genellikle Debian tabanlı) temel kurulumu gerçekleştirilir. Kurulum işlemi, bir Linux ISO dosyasını sanal makineye bağlayarak başlar. Ardından, kurulum sihirbazıyla adım adım ilerlenir ve dil, saat dilimi, disk bölümlendirme gibi seçenekler belirlenir.
 - Ağ yapılandırması ve güvenlik ayarları
+   - Bu adımda, ağ yapılandırması ve güvenlik ayarları yapılır. Ağ yapılandırması, IP adresi, alt ağ maskesi, varsayılan ağ geçidi ve DNS sunucuları gibi ağ ayarlarını içerir. Güvenlik ayarları ise, güvenlik duvarı (firewall) kurulumu, SSH erişimi ve kötü amaçlı yazılım koruması gibi konuları içerebilir.
 - Kullanıcı hesaplarının oluşturulması ve yönetimi
+   - Bu adımda, kullanıcı hesapları oluşturulur ve yönetilir. Bir yönetici hesabı (root) ve standart kullanıcı hesapları oluşturulur. Kullanıcıların parolaları belirlenir, kullanıcı grupları oluşturulur ve izinler düzenlenir. Kullanıcı hesaplarına erişim kontrolü sağlanır.
 - Disk bölümlendirme ve dosya sistemleri yönetimi
+  - Bu adımda, disk bölümlendirme ve dosya sistemleri yönetimi yapılır. Disk bölümlendirme işlemi, disk üzerindeki bölümlerin oluşturulması, biçimlendirilmesi ve bağlanması işlemlerini içerir. Dosya sistemleri yönetimi ise, dosya ve dizinlerin oluşturulması, silinmesi, taşınması ve izinlerinin düzenlenmesi gibi işlemleri içerir.
 - Günlük dosyalarının izlenmesi ve raporlanması
+  - Bu adımda, sistemin günlük dosyaları (log dosyaları) izlenir ve raporlanır. Günlük dosyaları, sistem etkinliklerini ve hataları kaydeden dosyalardır. Bu adımda, günlük dosyaları incelenir, önemli olaylar raporlanır ve gerektiğinde sorun giderme işlemleri yapılır.
 
-## Proje İçeriği
+Bu adımlar, Born2beroot projesinin temel bileşenlerini oluşturur ve katılımcılara Linux sistem yönetimi konusunda derinlemesine bir deneyim kazandırır.
 
-Born2beroot projesi, aşağıdaki bileşenleri içerebilir:
+## Born2beroot Projesi Notlarım:
 
 - **Born2beroot Kurulum Notları.pdf**: Born2beroot kurulum notlarını içeren PDF dosyası.
 - **Born2beroot-detay-1.pdf**: Proje detaylarına ilişkin birinci PDF dosyası.
