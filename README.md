@@ -9,7 +9,7 @@ Bu proje, bir Linux sunucusunda temel sistem yönetimi becerilerini öğrenmeyi 
 
 <!-- Proje Logosu veya Görseli -->
 <p align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" alt="Proje Logo">
+  <a target="blank"><img src="https://i.hizliresim.com/cn47lop.png" height="150" width="150" /></a>
 </p>
 
 ## Projenin Amacı
