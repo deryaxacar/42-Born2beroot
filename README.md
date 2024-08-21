@@ -49,3 +49,7 @@ Bu adımlar, Born2beroot projesinin temel bileşenlerini oluşturur ve katılım
 - **monitoring.sh**: Monitoring betiği.
 - **monitoring.sh-detay.pdf**: Monitoring betiğine ilişkin detaylı açıklamaları içeren PDF dosyası.
 - **Born2Beroot-bonus-detay.pdf**: Proje bonus detaylarını içeren PDF dosyası.
+
+---
+
+Bu README dosyası Derya ACAR tarafından hazırlanmıştır.
