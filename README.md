@@ -28,6 +28,10 @@ Born2beroot projesi, bir Linux sanal makinesi üzerinde çalışır ve aşağıd
 
 - **Sanal makineleri oluşturma ve yapılandırma**: Sanal makine oluşturulur ve temel yapılandırmaları yapılır. VirtualBox veya VMWare gibi sanallaştırma platformları kullanılabilir.
 - **Linux işletim sistemi temel kurulumu**: Bir Linux dağıtımının temel kurulumu gerçekleştirilir. Kurulum adımları dil, saat dilimi, disk bölümlendirme gibi seçenekleri içerir.
+
+---
+
+Bu README dosyası Derya ACAR tarafından hazırlanmıştır.
 - **Ağ yapılandırması ve güvenlik ayarları**: IP adresi, ağ maskesi, ağ geçidi ve DNS ayarları yapılır. Güvenlik duvarı kurulumu, SSH erişimi ve kötü amaçlı yazılım koruması gibi güvenlik ayarları da yapılır.
 - **Kullanıcı hesaplarının oluşturulması ve yönetimi**: Yönetici ve standart kullanıcı hesapları oluşturulur. Parolalar belirlenir, gruplar oluşturulur ve izinler düzenlenir.
 - **Disk bölümlendirme ve dosya sistemleri yönetimi**: Disk bölümlendirme, biçimlendirme, bağlama ve dosya sistemleri yönetimi işlemleri yapılır.
