@@ -8,7 +8,7 @@ Bu proje, bir Linux sunucusunda temel sistem yönetimi becerilerini öğrenmeyi 
 
 <!-- Proje Logosu veya Görseli -->
 <p align="center">
-  <a target="blank"><img src="https://i.hizliresim.com/cn47lop.png" height="150" width="150" /></a>
+  <a target="blank"><img src="https://camo.githubusercontent.com/bc3c5d28084ce5d3fd383d453c0435beb73028ec11b2512c6b88050b1612bc3b/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f636e34376c6f702e706e67" height="150" width="150" /></a>
 </p>
 
 ## 🎯 Projenin Amacı
