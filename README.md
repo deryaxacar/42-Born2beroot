@@ -1,55 +1,58 @@
-<!-- Proje Başlığı -->
+<!-- Project Title -->
 <h1 align="center">42 - Born2beroot 🖥️</h1>
 
-<!-- Proje Açıklaması -->
+<!-- Project Description -->
 <p align="center">
-Bu proje, bir Linux sunucusunda temel sistem yönetimi becerilerini öğrenmeyi ve uygulamayı amaçlar. Proje kapsamında, bir sanal makine üzerinde temel Linux sistem yönetimi görevlerini gerçekleştirmek için gerekli bilgi ve deneyim kazanılır.
+This project aims to teach and apply basic system administration skills on a Linux server. Throughout the project, participants gain the knowledge and experience required to perform essential Linux system administration tasks on a virtual machine.
 </p>
 
-<!-- Proje Logosu veya Görseli -->
+<!-- Project Logo or Image -->
 <p align="center">
-  <a target="blank"><img src="https://camo.githubusercontent.com/bc3c5d28084ce5d3fd383d453c0435beb73028ec11b2512c6b88050b1612bc3b/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f636e34376c6f702e706e67" height="150" width="150" /></a>
+  <a target="blank"><img src="https://github.com/deryaxacar/42-Born2beroot/blob/main/born2beroot.png" height="150" width="150" /></a>
 </p>
 
-## 🎯 Projenin Amacı
+## 🎯 Project Purpose
 
-Born2beroot projesi, katılımcılara aşağıdaki becerileri kazandırmayı hedefler:
+The Born2beroot project aims to help participants develop the following skills:
 
-- Linux işletim sistemini kurma ve yapılandırma
-- Temel ağ yönetimi ve güvenlik konularında bilgi
-- Uzaktan erişim yöntemleri (SSH, VNC) kullanma
-- Disk yönetimi ve dosya sistemleri hakkında bilgi
-- Kullanıcı yönetimi ve izinler
-- Günlük dosyalarını analiz etme ve izleme
+- Installing and configuring a Linux operating system  
+- Understanding basic network management and security  
+- Using remote access methods (SSH, VNC)  
+- Gaining knowledge in disk management and file systems  
+- Managing users and permissions  
+- Monitoring and analyzing log files  
 
-## 🔧 Kullanım Senaryoları
+## 🔧 Use Cases
 
-Born2beroot projesi, bir Linux sanal makinesi üzerinde çalışır ve aşağıdaki gibi senaryoları içerir:
+The Born2beroot project runs on a Linux virtual machine and includes scenarios such as:
 
-- **Sanal makineleri oluşturma ve yapılandırma**: Sanal makine oluşturulur ve temel yapılandırmaları yapılır. VirtualBox veya VMWare gibi sanallaştırma platformları kullanılabilir.
-- **Linux işletim sistemi temel kurulumu**: Bir Linux dağıtımının temel kurulumu gerçekleştirilir. Kurulum adımları dil, saat dilimi, disk bölümlendirme gibi seçenekleri içerir.
+- **Creating and configuring virtual machines**: A virtual machine is created and its basic configurations are completed. Virtualization platforms like VirtualBox or VMWare can be used.
+
+- **Basic installation of a Linux OS**: A Linux distribution is installed with basic setup steps including language, timezone, and disk partitioning.
 
 ---
 
-- **Ağ yapılandırması ve güvenlik ayarları**: IP adresi, ağ maskesi, ağ geçidi ve DNS ayarları yapılır. Güvenlik duvarı kurulumu, SSH erişimi ve kötü amaçlı yazılım koruması gibi güvenlik ayarları da yapılır.
-- **Kullanıcı hesaplarının oluşturulması ve yönetimi**: Yönetici ve standart kullanıcı hesapları oluşturulur. Parolalar belirlenir, gruplar oluşturulur ve izinler düzenlenir.
-- **Disk bölümlendirme ve dosya sistemleri yönetimi**: Disk bölümlendirme, biçimlendirme, bağlama ve dosya sistemleri yönetimi işlemleri yapılır.
-- **Günlük dosyalarının izlenmesi ve raporlanması**: Sistem günlük dosyaları izlenir ve raporlanır. Önemli olaylar analiz edilir ve sorun giderme işlemleri yapılır.
+- **Network configuration and security settings**: Configuration of IP address, subnet mask, gateway, and DNS. Security settings include firewall setup, SSH access, and malware protection.
 
-Bu adımlar, Born2beroot projesinin temel bileşenlerini oluşturur ve katılımcılara Linux sistem yönetimi konusunda derinlemesine bir deneyim kazandırır.
+- **Creating and managing user accounts**: Admin and standard user accounts are created. Passwords are set, groups are created, and permissions are managed.
 
-## 📑 Born2beroot Projesi Notlarım:
+- **Disk partitioning and file system management**: Disk partitioning, formatting, mounting, and file system operations are performed.
 
-- **Born2beroot Kurulum Notları.pdf**: Born2beroot kurulum notlarını içeren PDF dosyası.
-- **Born2beroot-detay-1.pdf**: Proje detaylarına ilişkin birinci PDF dosyası.
-- **Born2beroot-detay-2.pdf**: Proje detaylarına ilişkin ikinci PDF dosyası.
-- **born2beroot-evaluation-adımları.pdf**: Born2beroot değerlendirme adımlarını içeren PDF dosyası.
-- **born2beroot-evaluation.pdf**: Born2beroot değerlendirme bilgilerini içeren PDF dosyası.
-- **monitoring.sh**: Monitoring betiği.
-- **monitoring.sh-detay.pdf**: Monitoring betiğine ilişkin detaylı açıklamaları içeren PDF dosyası.
-- **Born2Beroot-bonus-detay.pdf**: Proje bonus detaylarını içeren PDF dosyası.
+- **Monitoring and reporting log files**: System log files are monitored and reported. Critical events are analyzed and troubleshooting is performed.
+
+These steps form the foundation of the Born2beroot project and provide participants with in-depth experience in Linux system administration.
+
+## 📑 My Born2beroot Project Notes:
+
+- **Born2beroot Installation Notes.pdf**: PDF file containing installation notes for Born2beroot.  
+- **Born2beroot-details-1.pdf**: First PDF file containing project details.  
+- **Born2beroot-details-2.pdf**: Second PDF file containing project details.  
+- **born2beroot-evaluation-steps.pdf**: PDF file containing evaluation steps for Born2beroot.  
+- **born2beroot-evaluation.pdf**: PDF file containing evaluation criteria for Born2beroot.  
+- **monitoring.sh**: Monitoring script.  
+- **monitoring.sh-details.pdf**: PDF file with detailed explanation of the monitoring script.  
+- **Born2beroot-bonus-details.pdf**: PDF file containing bonus details for the project.
 
 ---
 
 <p align="center">2025 This project was created by Derya ACAR.</p>
-
